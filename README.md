@@ -2,8 +2,10 @@
 <center>
     <img style=width:1000px src="https://repository-images.githubusercontent.com/275387860/eb497480-0642-11eb-9aa3-ffdbb0e84246" alt="plasma"></center>
     #PLASMA DONOR APPLICATION
+    
     TECHNOLOGY : Cloud Application 
     IBM-Project-PNT2022TMID43624
+    
     ##SOFTWARE REQUIREMENTS:
 
     Python, Flask , Docker
@@ -27,6 +29,7 @@ store them and inform them upon a request.
 -VISHNU KM
 
 ##PROJECT WORKFLOW:
+
 The user interacts with the application.
 
 Registers by giving the details as a donor.
