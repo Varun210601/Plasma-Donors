@@ -28,9 +28,10 @@
     -VARUN N
 
     -VISHNU KM
+    
 
     ##PROJECT WORKFLOW:
 
-   The user interacts with the application.
-   Registers by giving the details as a donor.
-   The database will have all the details and if a user posts a request then the concerned blood group donors will get notified about it.
+  The user interacts with the application.
+  Registers by giving the details as a donor.
+  The database will have all the details and if a user posts a request then the concerned blood group donors will get notified about it.
