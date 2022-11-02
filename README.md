@@ -7,7 +7,9 @@
     ##SOFTWARE REQUIREMENTS:
 
     Python, Flask , Docker
+    
     ##SYSTEM REQUIREMENT:
+    
     8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
 During the COVID 19 crisis, the requirement of plasma became a high priority and the donor count has become low. 
 Saving the donor information and helping the needy by notifying the current donors list, would be a helping hand.
@@ -17,8 +19,11 @@ store them and inform them upon a request.
 ##TEAM MEMBERS
 
 -RAJASUBHIKSHA P
+
 -MALAVIKA KP
+
 -VARUN N
+
 -VISHNU KM
 
 ##PROJECT WORKFLOW:
